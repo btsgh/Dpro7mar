@@ -52,6 +52,10 @@
     {
       "id": "Page4",
       "isDefault": false
+    },
+    {
+      "id": "Movies_crud2",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
