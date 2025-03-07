@@ -1,0 +1,35 @@
+{
+  "animateLoading": true,
+  "borderRadius": "9999px",
+  "bottomRow": 5,
+  "boxShadow": "none",
+  "buttonColor": "#F86A2B",
+  "buttonVariant": "PRIMARY",
+  "displayName": "Icon Button",
+  "dynamicBindingPathList": [],
+  "dynamicPropertyPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "hideCard": false,
+  "iconName": "hand-down",
+  "iconSVG": "/static/media/icon.1a0c634a.svg",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "0pmcyf0l0q",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 57,
+  "parentColumnSpace": 7.3984375,
+  "parentId": "erh1yabhww",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 61,
+  "topRow": 1,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "4uymi6k1q2",
+  "widgetName": "IconButton2"
+}

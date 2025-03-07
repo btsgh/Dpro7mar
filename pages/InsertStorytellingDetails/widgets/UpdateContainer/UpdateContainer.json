@@ -1,0 +1,72 @@
+{
+  "animateLoading": true,
+  "backgroundColor": "#FFF2C2",
+  "borderColor": "#03b365",
+  "borderRadius": "20px",
+  "borderWidth": "3",
+  "bottomRow": 75,
+  "boxShadow": "0px 0px 4px 3px #231F20",
+  "boxShadowColor": "#231F20",
+  "children": [
+    {
+      "borderRadius": "0px",
+      "bottomRow": 740,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "hideCard": true,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "5xjxu6ls8l",
+      "labelTextSize": "0.875rem",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ql6ouj09j4",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 211.5,
+      "topRow": 0,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "erh1yabhww",
+      "widgetName": "Canvas1"
+    }
+  ],
+  "containerStyle": "card",
+  "displayName": "Container",
+  "dynamicBindingPathList": [],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.1977dca3.svg",
+  "isCanvas": true,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "dmmarwarzs",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "parentColumnSpace": 8.8125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 63,
+  "shouldScrollContents": true,
+  "topRow": 0,
+  "type": "CONTAINER_WIDGET",
+  "version": 1,
+  "widgetId": "ql6ouj09j4",
+  "widgetName": "UpdateContainer"
+}

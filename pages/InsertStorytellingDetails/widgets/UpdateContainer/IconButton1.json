@@ -1,0 +1,40 @@
+{
+  "animateLoading": true,
+  "borderRadius": "9999px",
+  "bottomRow": 14,
+  "boxShadow": "none",
+  "buttonColor": "\t#8FBC8F",
+  "buttonVariant": "PRIMARY",
+  "displayName": "Icon Button",
+  "dynamicBindingPathList": [],
+  "dynamicPropertyPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "hideCard": false,
+  "iconName": "comment",
+  "iconSVG": "/static/media/icon.1a0c634a.svg",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "k1qre6q5ui",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 55,
+  "onClick": "{{showAlert('Go on and enter the details of your child and status of payment!','info')}}",
+  "parentColumnSpace": 8.3623046875,
+  "parentId": "erh1yabhww",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 63,
+  "topRow": 5,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "k72nxga73a",
+  "widgetName": "IconButton1"
+}

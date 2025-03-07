@@ -1,0 +1,68 @@
+{
+  "animateLoading": true,
+  "backgroundColor": "#8FBC8F",
+  "borderRadius": "12px",
+  "borderWidth": "",
+  "bottomRow": 72,
+  "boxShadow": "2px 2px 0px #231F20",
+  "boxShadowColor": "#231F20",
+  "children": [
+    {
+      "borderRadius": "0px",
+      "bottomRow": 580,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "hideCard": true,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "3rmeetf2rx",
+      "labelTextSize": "0.875rem",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "xa5h1ry5bx",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 200.6953125,
+      "topRow": 0,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "7fdqwsy4a7",
+      "widgetName": "Canvas2"
+    }
+  ],
+  "displayName": "Form",
+  "dynamicBindingPathList": [],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.ea3e08d1.svg",
+  "isCanvas": true,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "79oyw1ru5b",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 5,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "parentColumnSpace": 8.3623046875,
+  "parentId": "erh1yabhww",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 47,
+  "topRow": 14,
+  "type": "FORM_WIDGET",
+  "widgetId": "xa5h1ry5bx",
+  "widgetName": "InsertData"
+}

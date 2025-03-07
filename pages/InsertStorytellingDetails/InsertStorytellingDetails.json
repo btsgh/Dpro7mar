@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "67ca6ccb9726fd085a138dca_f7bfde61-2fe1-4bec-adaf-044f9c97b7f0",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 750,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "minHeight": 600,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 816,
+          "snapColumns": 64,
+          "snapRows": 59,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 92,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "InsertStorytellingDetails",
+    "slug": "insertstorytellingdetails"
+  }
+}
